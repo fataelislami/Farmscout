@@ -39,5 +39,6 @@ npm run build
 ## Credits
 
 Fata El Islami
+Dalih Rusmana
 
 
